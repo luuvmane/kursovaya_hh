@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Junior Backend Developer (Python)",
+        "salary": {
+            "from": 300,
+            "to": null,
+            "currency": "USD",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98062336",
+        "employer": "ALTEK DIGITAL"
+    },
+    {
+        "name": "Стажер-разработчик",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/97076411",
+        "employer": "Prime Source"
+    },
+    {
+        "name": "РУКОВОДИТЕЛЬ КОМАНДЫ РАЗРАБОТКИ .",
+        "salary": {
+            "from": 20000000,
+            "to": 30000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98157133",
+        "employer": "Safia кондитерский дом"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/96034351",
+        "employer": "Скиба Богдан"
+    },
+    {
+        "name": "C++ developer to Berlin",
+        "salary": {
+            "from": 7500,
+            "to": 10834,
+            "currency": "EUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/97606086",
+        "employer": "think-cell"
+    },
+    {
+        "name": "Стажер-разработчик Python",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/94354526",
+        "employer": "Додо Пицца"
+    },
+    {
+        "name": "Стажер ML Engineer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98157917",
+        "employer": "AX TECHNOLOGY (OOO INSANE GROUP CO)"
+    },
+    {
+        "name": "Бэкенд-разработчик",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/98140502",
+        "employer": "Нагорная Ирина Олеговна"
+    },
+    {
+        "name": "Web-программист - стажер",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/96507348",
+        "employer": "Autodata"
+    },
+    {
+        "name": "DevOps-инженер",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/91081591",
+        "employer": "ПСБ (ПАО «Промсвязьбанк»)"
+    },
+    {
+        "name": "Junior Python-разработчик в области AI/ML",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/93657524",
+        "employer": "Университет ИТМО"
+    },
+    {
+        "name": "Младший (junior) программист Python",
+        "salary": {
+            "from": 37050,
+            "to": 78750,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98108927",
+        "employer": "Интеллектуальные системы"
+    },
+    {
+        "name": "Программист Python",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98046521",
+        "employer": "Robosoft"
+    },
+    {
+        "name": "QA специалист",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98131780",
+        "employer": "Иксван"
+    },
+    {
+        "name": "Junior Golang Developer",
+        "salary": {
+            "from": 75000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/96194079",
+        "employer": "JavaCode"
+    },
+    {
+        "name": "Python разработчик (Django)",
+        "salary": {
+            "from": 50000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/96838329",
+        "employer": "Hammer Systems"
+    },
+    {
+        "name": "Javascript Frontend Developer (Junior / Middle)",
+        "salary": {
+            "from": null,
+            "to": 190000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/98013927",
+        "employer": "Московский аэропорт Домодедово"
+    },
+    {
+        "name": "Главный специалист",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/96497148",
+        "employer": "Газпром"
+    },
+    {
+        "name": "Аналитик/Экономист/Middle Researcher",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/97239420",
+        "employer": "СПЕЙС МЕДИА ГРУПП"
+    },
+    {
+        "name": "Data scientist",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98160686",
+        "employer": "7Generation"
+    }
+]
